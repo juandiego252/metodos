@@ -1,3 +1,3 @@
 # metodos
-## Reto 2
+## Reto 9
 * Juan Diego Gualotuña
